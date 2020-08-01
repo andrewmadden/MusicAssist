@@ -1,2 +1,7 @@
 builds
 *.secret
+
+# Editors
+.vscode
+*.code-workspace
+.phpstorm
